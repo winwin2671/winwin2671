@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-**winwin2671/winwin2671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m @winwin2671
+👀 I’m interested in ...software engineering, software development
+🌱 I’m currently learning ... Computer Science, ML, Data analysis
+⚡ Fun fact: I'm a Highschooler
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 
 Here are some ideas to get you started:
 
