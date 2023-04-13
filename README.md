@@ -1,12 +1,16 @@
- ### Hi there 👋
+ ### 
  
- <div id="header" align="right">
+ <div id="header" align="center">
   <img src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
+ <h1>Hi there 👋</h1>
 </div>
-👋 Hi, I’m @winwin2671
+
+### About me 😄:
+
+👋 Hi, I’m Winwin from Thailand
 👀 I’m interested in ...software engineering, software development
 🌱 I’m currently learning ... Computer Science, ML, Data analysis
-⚡ Fun fact: I'm a Highschooler
+⚡ Fun fact: I'm a Highschooler 
 
 
 
