@@ -7,12 +7,12 @@
 
 ### About me 😄:
 
--👋 Hi, I’m Winwin from Thailand
--👀 I’m interested in ...software engineering, software development
--🌱 I’m currently learning ... Computer Science, ML, Data analysis
--⚡ Fun fact: I'm a Highschooler 
+- 👋 Hi, I’m Winwin from Thailand
+- 👀 I’m interested in ...software engineering, software development
+- 🌱 I’m currently learning ... Computer Science, ML, Data analysis
+- ⚡ Fun fact: I'm a Highschooler 
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winwin2671e&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=winwin2671&layout=compact&theme=dark"/>
 
