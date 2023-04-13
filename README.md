@@ -14,5 +14,5 @@
 
 ### :hammer_and_wrench: Languages :
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=winwin2671&layout=compact&theme=dark"/>
 
