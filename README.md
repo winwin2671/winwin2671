@@ -1,6 +1,7 @@
- ###<div id="header" align="center">
+ ### Hi there 👋
+ 
+ <div id="header" align="right">
   <img src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
-  Hi there 👋
 </div>
 👋 Hi, I’m @winwin2671
 👀 I’m interested in ...software engineering, software development
