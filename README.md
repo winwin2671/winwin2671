@@ -1,14 +1,13 @@
-### Hi there 👋
-
+ ###<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
+  Hi there 👋
+</div>
 👋 Hi, I’m @winwin2671
 👀 I’m interested in ...software engineering, software development
 🌱 I’m currently learning ... Computer Science, ML, Data analysis
 ⚡ Fun fact: I'm a Highschooler
 
 
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
-</div>
 
 
 Here are some ideas to get you started:
