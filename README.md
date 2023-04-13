@@ -7,7 +7,7 @@
 
 
 <div id="header" align="center">
-  <img src="[https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk](https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)" width="100"/>
+  <img src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
 </div>
 
 
