@@ -13,6 +13,5 @@
 - ⚡ Fun fact: I'm a Highschooler 
 
 ### :hammer_and_wrench: Languages :
-
-https://github-readme-stats.vercel.app/api/top-langs?username=winwin2671&theme=dark
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=winwin2671&theme=dark">
 
