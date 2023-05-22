@@ -11,7 +11,7 @@
 - 👀 I’m interested in ...software engineering, software development
 - 🌱 I’m currently learning ... Computer Science, ML, Data analysis
 - ⚡ Fun fact: I'm a Highschooler 
-
+- Email: teeraasasav@gmail.com
 ### :hammer_and_wrench: Languages :
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winwin2671&theme=dark">
 
