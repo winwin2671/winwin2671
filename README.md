@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning ... Computer Science, ML, Data analysis
 - ⚡ Fun fact: I'm a Highschooler 
 - Email: teeraasasav@gmail.com
+- Instagram: https://www.instagram.com/winwin_teera/
 ### :hammer_and_wrench: Languages :
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winwin2671&theme=dark">
 
