@@ -7,7 +7,7 @@
 
 ### About me 😄:
 
-- 👋 Hi, I’m Winwin from Thailand
+- 👋 Hi, I’m Teera-as Asavateeratham (Winwin) from Thailand
 - 👀 I’m interested in ...software engineering, software development
 - 🌱 I’m currently learning ... Computer Science, ML, Data analysis
 - ⚡ Fun fact: I'm a Highschooler 
