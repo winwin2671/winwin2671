@@ -14,7 +14,7 @@
 - Email: teeraasasav@gmail.com
 - Instagram: https://www.instagram.com/winwin_teera/
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=winwin2671)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### :hammer_and_wrench: Languages :
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winwin2671&theme=dark">
