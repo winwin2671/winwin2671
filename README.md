@@ -9,7 +9,7 @@
 
 - 👋 Hi, I’m Teera-as (WinWin) Asavateeratham from Thailand
 - 👀 I’m interested in software engineering, software development
-- 🌱 I’m currently learning Computer Science, ML, Data analysis
+- 🌱 I’m currently learning Computer Science, ML, Data analysis, and Neovim!
 - ⚡ Fun fact: I'm a Highschooler 
 - Email: teeraasasav@gmail.com
 - Instagram: https://www.instagram.com/winwin_teera/
