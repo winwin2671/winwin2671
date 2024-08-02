@@ -17,5 +17,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=winwin2671)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### :hammer_and_wrench: Languages :
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=winwin2671&theme=dark"> ![WinWin's GitHub stats](https://github-readme-stats.vercel.app/api?username=winwin2671&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winwin2671&layout=compact&theme=dark) ![WinWin's GitHub stats](https://github-readme-stats.vercel.app/api?username=winwin2671&show_icons=true&theme=transparent)
 
