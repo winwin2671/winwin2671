@@ -13,6 +13,7 @@
 - ⚡ Fun fact: I'm a 5k-10k HS track athlete. 
 - Email: teeraasasav@gmail.com
 - Instagram: https://www.instagram.com/winwin_teera/
+- LinkedIn: https://www.linkedin.com/in/teera-as-asavateeratham-836350305/
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=winwin2671)](https://github.com/ryo-ma/github-profile-trophy)
 
